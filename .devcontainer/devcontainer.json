@@ -1,0 +1,5 @@
+{
+  "name": "Haskell Codespace",
+  "build": { "dockerfile": "Dockerfile" },
+  "extensions": ["haskell.haskell"]
+}
